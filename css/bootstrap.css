@@ -1276,6 +1276,11 @@ pre code {
   }
 }
 
+@media (max-width: 768px) {
+  #Hando, #Quadrotor, #Scheme {
+    width:75% ;
+  }
+}
 @media (min-width: 992px) {
   .container {
     width: 970px;
