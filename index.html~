@@ -31,7 +31,7 @@
   
     <div class="brand">Daniel Goldberg</div>
     <div class="address-bar">Brooklyn, New York |Berkeley, California</div>
-    <div class="address-bar">Software Desecrator | Aspiring Entrepreneur</div>
+    <div class="address-bar">Software Desecrator</div>
 
     <nav class="navbar navbar-default" role="navigation">
       <div class="container">
@@ -66,7 +66,7 @@
             <hr>
             <p>I am a student and aspiring entrepreneur studying Computer Science at UC Berkeley, where I spend most of my time dabbling in all sorts of geekery, finding delicious food to eat, and hanging out with friends. </p>
 
-            <p>I am interested in using software to connect with both local and global communities in creative and meaningful ways.</p>
+            <p>I'm interested in using software to connect with both local and global communities in creative and meaningful ways.</p>
 
           </div>
           
@@ -105,6 +105,7 @@
                 <p>•Hardware</p>
                 <p>•Microcontrollers</p>
                 <p>•Drones</p>
+                <p>•Nanotechnology</p>
           </div>
           <div class="col-sm-4 text-center">
               
@@ -127,8 +128,8 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-		  <p{ margine: 0 !important; }>dgoldberg@berkeley.edu | <a href= "https://github.com/dgoldberg25/">Github</a></p>
-            <p>Copyright &copy; Daniel Goldberg 2013</p>
+		  <p><a href= "https://goldbergdaniel.com/about.html/">Resume</a> | <a href= "https://goldbergdaniel.com/projects.html/">Projects</a> | <a href= "https://github.com/dgoldberg25/">Github</a> | dgoldberg[at]berkeley.edu</p>
+            <div>Copyright &copy; Daniel Goldberg 2013</div>
 
           </div>
         </div>
